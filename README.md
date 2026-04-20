@@ -1,2 +1,2 @@
 # hackathon-project-ik
-# This repository is reated to be used for SAAF Project
+# This repository is created to be used for SAAF Project
